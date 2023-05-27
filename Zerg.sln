@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zerg.SpaceTraders.API", "Zerg.SpaceTraders.API\Zerg.SpaceTraders.API.csproj", "{7813FB55-4EFE-46D9-9E3B-DB3476FE20A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zerg.Cockpit", "Zerg.Cockpit\Zerg.Cockpit.csproj", "{AAE34827-4735-4B31-B58D-3C06B7E558A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zerg.Autopilot", "Zerg.Autopilot\Zerg.Autopilot.csproj", "{FB1D55E9-0B88-4113-858C-07060BDA019E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zerg.Http", "Zerg.Http\Zerg.Http.csproj", "{91E6C691-872B-482C-BE3D-033B0DD4A440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7813FB55-4EFE-46D9-9E3B-DB3476FE20A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7813FB55-4EFE-46D9-9E3B-DB3476FE20A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7813FB55-4EFE-46D9-9E3B-DB3476FE20A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7813FB55-4EFE-46D9-9E3B-DB3476FE20A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE34827-4735-4B31-B58D-3C06B7E558A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE34827-4735-4B31-B58D-3C06B7E558A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE34827-4735-4B31-B58D-3C06B7E558A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE34827-4735-4B31-B58D-3C06B7E558A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1D55E9-0B88-4113-858C-07060BDA019E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1D55E9-0B88-4113-858C-07060BDA019E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1D55E9-0B88-4113-858C-07060BDA019E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1D55E9-0B88-4113-858C-07060BDA019E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E6C691-872B-482C-BE3D-033B0DD4A440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E6C691-872B-482C-BE3D-033B0DD4A440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E6C691-872B-482C-BE3D-033B0DD4A440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E6C691-872B-482C-BE3D-033B0DD4A440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
